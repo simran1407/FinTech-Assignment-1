@@ -4,13 +4,18 @@
 # TITLE: WealthSimple Inc Case Study
 ### Overview and origin: Wealthsimple Inc. is a Canadian online investment management services company. It was founded in September 2014 by Michael Katchen and is headquartered in Toronto. It is currently the best Robo-Advisory in wealth management FinTech company in Canada.
 
-* Name of company- WealthSimple
+* Name of company
+WealthSimple
 
-* When was the company incorporated?- September 2014
+* When was the company incorporated?
+September 2014
 
-* Who are the founders of the company? Michael Katchen
+* Who are the founders of the company? 
+Michael Katchen
 
-* How did the idea for the company (or project) come about?- Prior to founding Wealthsimple, Michael Katchen worked for 1000Memories, a Silicon Valley-based startup. After Ancestry.com bought 1000Memories in 2012, Katchen developed a spreadsheet with tips to help his colleagues set up investment portfolios. Interest in the spreadsheet helped inspire the idea for Wealthsimple. Katchen started investing at an early age and understood the importance and benefits of investing and building portfolios at a young age. So a part of his idea was also to focus on and get milennials to do the same.
+* How did the idea for the company (or project) come about?
+
+Prior to founding Wealthsimple, Michael Katchen worked for 1000Memories, a Silicon Valley-based startup. After Ancestry.com bought 1000Memories in 2012, Katchen developed a spreadsheet with tips to help his colleagues set up investment portfolios. Interest in the spreadsheet helped inspire the idea for Wealthsimple. Katchen started investing at an early age and understood the importance and benefits of investing and building portfolios at a young age. So a part of his idea was also to focus on and get milennials to do the same.
 
 * How is the company funded? How much funding have they received?
 
