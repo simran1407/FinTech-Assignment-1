@@ -18,7 +18,7 @@ Michael Katchen
 
 * How did the idea for the company (or project) come about?
 
-Prior to founding Wealthsimple, Michael Katchen worked for 1000Memories, a Silicon Valley-based startup. After Ancestry.com bought 1000Memories in 2012, Katchen developed a spreadsheet with tips to help his colleagues set up investment portfolios. Interest in the spreadsheet helped inspire the idea for Wealthsimple. Katchen started investing at an early age and understood the importance and benefits of investing and building portfolios at a young age. So a part of his idea was also to focus on and get milennials to do the same.
+Prior to founding Wealthsimple, Michael Katchen worked for 1000Memories, a Silicon Valley-based startup. After Ancestry.com bought 1000Memories in 2012, Katchen developed a spreadsheet with tips to help his colleagues set up investment portfolios. Interest in the spreadsheet helped inspire the idea for Wealthsimple. Katchen started investing at an early age and understood the importance and benefits of investing and building portfolios at a young age. So a part of his idea was also to focus on and get millennials to do the same.
 
 * How is the company funded? How much funding have they received?
 
