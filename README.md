@@ -88,6 +88,7 @@ WealthSimple is currently doing the best in it's domain when compared to other C
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
 WealthSimple does not offer credit or debit cards to it's customers so in order to access funds, customers are required to transfer them from WealthSimple to a different financial instituition first which can be a bit inconvenient at times. So I would definitely advise them to do this.
 
 * Why do you think that offering this product or service would benefit the company?
