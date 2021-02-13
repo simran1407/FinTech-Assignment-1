@@ -1,6 +1,7 @@
-# FinTech-Assignment-1
-TITLE
+![wealthsimple](wealthsimple.jpg)
 
+
+# TITLE: WealthSimple Case Study
 ## Overview and Origin
 
 * Name of company- Wealthsimple
