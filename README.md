@@ -63,3 +63,9 @@ Wealthsimple has been successful in engaging a lot of millennials into building 
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+
+***Sources:***
+- [wealthsimple](https://www.wealthsimple.com/en-ca/)
+- [investment executive article](https://www.investmentexecutive.com/news/industry-news/wealthsimple-raises-114-million-in-financing-round/)
