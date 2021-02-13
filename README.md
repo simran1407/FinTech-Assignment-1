@@ -1,8 +1,8 @@
 ![wealthsimple](wealthsimple.jpg)
 
 
-# TITLE: WealthSimple Case Study
-## Overview and Origin
+# TITLE: WealthSimple Inc Case Study
+## Overview and origin: Wealthsimple Inc. is a Canadian online investment management service. It was founded in September 2014 by Michael Katchen and is headquartered in Toronto. It is currently the best Robo-Advisory in wealth management FinTech company in Canada.
 
 * Name of company- Wealthsimple
 
